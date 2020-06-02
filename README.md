@@ -13,7 +13,7 @@ While interacting on online platforms, people tend to use toxic words in order t
 ![DatasetTrain](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/Dataset-%20Train.PNG)
 <hr>
 
-**WORD CLOWD**
+**WORD CLOUD**
 
 | IDENTITY HATE | INSULT | OBSCENE |
 | :-----------: | :----: | :-----: |
@@ -25,7 +25,7 @@ While interacting on online platforms, people tend to use toxic words in order t
 
 **METHODOLOGY**
 <br />
-![Methodology](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/methodology.png)
+![Methodology](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/methodology.png height="20px")
 <hr>
 
 **RESULT**
