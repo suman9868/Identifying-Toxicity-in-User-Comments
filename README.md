@@ -14,7 +14,7 @@ While interacting on online platforms, people tend to use toxic words in order t
 <hr>
 
 **WORD CLOWD**
-<br />
+
 | IDENTITY HATE | INSULT | OBSCENE |
 | :-----------: | :----: | :-----: |
 | ![identityHate](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20identity_hate.PNG) | ![insult](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20insult.PNG) | ![obscene](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20obscene.PNG)  |
@@ -29,6 +29,11 @@ While interacting on online platforms, people tend to use toxic words in order t
 <hr>
 
 **RESULT**
-<br />
-![toxicClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/SEVERE%20TOXIC%20CLASS.png)
+
+| IDENTITY HATE | INSULT | OBSCENE |
+| :-----------: | :----: | :-----: |
+| ![identityHateClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/IDENTITY%20HATE%20CLASS(1).png) | ![insultClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/INSULT%20CLASS(1).png) | ![obsceneClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/OBSCENE%20CLASS(1).png)  |
+| SERVERSE TOXIC | THREAT | TOXIC |
+| ![toxicClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/SEVERE%20TOXIC%20CLASS(1).png)  | ![threatClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/THREAT%20CLASS%20(1).png) | ![toxicClass](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/SEVERE%20TOXIC%20CLASS.png) |
+
 <hr>
