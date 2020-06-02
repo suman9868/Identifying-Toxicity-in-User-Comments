@@ -17,10 +17,9 @@ While interacting on online platforms, people tend to use toxic words in order t
 <br />
 | IDENTITY HATE | INSULT | OBSCENE |
 | :-----------: | :----: | :-----: |
-| ![identityHate](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20identity_hate.PNG) | https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20insult.PNG |https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20obscene.PNG  |
+| ![identityHate](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20identity_hate.PNG) | ![insult](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20insult.PNG) | ![obscene](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20obscene.PNG)  |
 | SERVERSE TOXIC | THREAT | TOXIC |
-| :-----------: | :----: | :-----: |
-|https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20severe%20toxic.PNG  | https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20threat.PNG | https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20toxic.PNG |
+| ![toxic](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20severe%20toxic.PNG)  | ![threat](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20threat.PNG) | ![toxic](https://github.com/suman9868/Identifying-Toxicity-in-User-Comments/blob/master/additional%20screens/wordcloud%20-%20toxic.PNG) |
 
 <hr>
 
